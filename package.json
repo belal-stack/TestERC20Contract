@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@thirdweb-dev/sdk": "^4.0.77",
+    "dotenv": "^16.4.5"
+  }
+}
